@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+}
+
+
+.result {
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.container{
+    margin: 20px;
+    
+
+}
+.image{
+    border-radius: 15px;
+    
+    
+}
